@@ -33,4 +33,4 @@ ODEV 2: XOX Oyunu
 					O _ X 
 					_ _ _ 
 
-		boyle bir durumda da hamle sirasi bilgisayarda ve bilgisayar kazanma hamlesi olarak sol-alt koseye "O" koyarak oyunu bitirmelidir.
+		boyle bir durumda da hamle sirasi bilgisayarda ve bilgisayar kazanma hamlesi olarak sol-alt koseye "O" koyarak oyunu bitirmelidir..
